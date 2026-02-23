@@ -40,7 +40,9 @@ In this repository,
 
 ## To finish the challenge ...
 
-* When you finish the missions or the time is up, you need to use **git add, git commit, git push** commands to sync your local repository at Kapteyn machine with your GitHub account. 
+* When you finish the missions or the time is up, save your notebook and rerun the kernel. 
+
+* Then, you need to use **git add, git commit, git push** commands to sync your local repository at Kapteyn machine with your GitHub account. 
 
 * Make the repository at your own account ***public***. 
 
